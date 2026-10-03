@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of justoverclock/flachievements.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/flachievements) or the [upstream repository](https://github.com/justoverclockl/flachievements).
 
-**0** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/justoverclock-flachievements/tree/archive/v1.1.0) · License: `GPL-3.0-or-later` · Flarum: `^v1.8.0`
+**2** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/justoverclock-flachievements/tree/archive/v1.1.0) · License: `GPL-3.0-or-later` · Flarum: `^v1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2024-11-06 | `^v1.8.0` | [Browse](https://github.com/flarchive/justoverclock-flachievements/tree/archive/v1.0.0) |
+| `1.1.0` | 2024-11-06 | `^v1.8.0` | [Browse](https://github.com/flarchive/justoverclock-flachievements/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/justoverclock-flachievements.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-flachievements.json)
 
